@@ -1,0 +1,7 @@
+#How to run --> docker-compose run --rm app sh -c "flake8"
+[flake8]
+exclude =
+    migrations,
+    __pycache__,
+    manage.py,
+    settings.py
