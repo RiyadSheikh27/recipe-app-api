@@ -1,0 +1,1 @@
+"""Serializer for the user API view.""" 
